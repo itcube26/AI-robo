@@ -14,3 +14,5 @@ source venv/bin/activate
 
 python bridge.py
 
+
+ЗАДАНИЕ: исправить неробочий левый мотор и закончить начатое
